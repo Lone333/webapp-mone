@@ -9,8 +9,8 @@ export const APP_INFO: AppInfo = {
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
-export const APP_ID = 'e3e37c2f-462f-4094-bb66-7e1411e904a0'
-export const API_KEY = 'app-jo5TlW7YkWbQm3Qr27wiPV9q'
+export const APP_ID = '380f3435-d6f0-444c-8a84-a854475c45d8'
+export const API_KEY = 'app-TxV2ulyplUBB1l8bVAGBXbkP'
 
 export const isShowPrompt = false
 export const promptTemplate = 'I want you to act as a javascript console.'
